@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1405488199 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1405492243 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<queue>
+
+1405487385 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluar.cpp
+	<iostream>
+	<queue>
+
+1406323234 source:/home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1405489166 /home/turupawn/Projects/Codeblocks/Clases/EstructuraDeDatos/Tarea1/Evaluador.h
+	<iostream>
+	<queue>
+
+1412478206 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/Evaluador.cpp
+	"Evaluador.h"
+
+1412476284 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/Evaluador.h
+	"Mascota.h"
+	<iostream>
+	<queue>
+
+1412477976 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/main.cpp
+	"Mascota.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
+1412476305 /home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/Mascota.h
+	<iostream>
+	<list>
+	<fstream>
+
+1412476262 source:/home/turupawn/Projects/Codeblocks/Clases/OrgaDeArchivos/Tarea1/Mascota.cpp
+	"Mascota.h"
+
+1412476222 source:c:\users\dell 5040 i7\desktop\tarea#4\orgatarea1-master\evaluador.cpp
+	"Evaluador.h"
+
+1412476222 c:\users\dell 5040 i7\desktop\tarea#4\orgatarea1-master\evaluador.h
+	"Mascota.h"
+	<iostream>
+	<queue>
+
+1412476222 c:\users\dell 5040 i7\desktop\tarea#4\orgatarea1-master\mascota.h
+	<iostream>
+	<list>
+	<fstream>
+
+1412476222 source:c:\users\dell 5040 i7\desktop\tarea#4\orgatarea1-master\mascota.cpp
+	"Mascota.h"
+
+1503795112 source:c:\users\dell 5040 i7\desktop\tarea#4\orgatarea1-master\main.cpp
+	"Mascota.h"
+	"Evaluador.h"
+	<iostream>
+	<list>
+	<fstream>
+
